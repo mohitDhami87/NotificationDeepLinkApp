@@ -5,7 +5,8 @@ It allows users to navigate to specific pages when a notification is received.
 
 ## Screenshots
 
-_(Add screenshots here if needed)_
+![AppScreenshot](https://github.com/user-attachments/assets/2efffc8e-3115-4efa-941c-8f8f31f0668b)
+
 
 ## Table of Contents
 
